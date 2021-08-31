@@ -14,6 +14,9 @@ gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 gem 'simple_form', '~> 5.1'
 gem 'bootsnap', '>= 1.4.4', require: false
 gem 'devise'
+gem 'paperclip', '~> 6.1'
+gem 'jquery-rails'
+gem 'jquery-ui-rails'
 
 
 group :development, :test do

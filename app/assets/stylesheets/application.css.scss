@@ -13,7 +13,19 @@
  *= require_tree .
  *= require_self
  */
+
  // "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
  @import "bootstrap-sprockets";
  @import "bootstrap";
  
+
+ .book{
+	 height: 300px;
+	 width: 200px;
+	 padding-top: 30px;
+ }
+ 
+ .book-show{
+	 height: 375px;
+	 width: 250px;
+ }
